@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm -rf L* Ng* *.o erc_*
+rm -rf *.e
+rm -rf *.o
+rm -rf *.log
